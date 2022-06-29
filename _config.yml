@@ -105,10 +105,10 @@ post_search: true
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+navbar-border-col: "#3a3f45"
+page-col: "#272b31"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#58b7d3"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
